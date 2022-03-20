@@ -1,0 +1,12 @@
+### Obteniendo toda la data
+http://localhost:8001/listar
+
+
+###Obteniendo un solo registro
+http://localhost:8001/ver/1
+
+###Listar productos con cantidad y preciototal
+http://localhost:8002/listar
+
+###Obteniendo un solo producto con la cantidad y el total modificados
+http://localhost:8002/ver/3/cantidad/100
